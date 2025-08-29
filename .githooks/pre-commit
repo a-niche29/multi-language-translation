@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "================================"
+echo "Pre-commit Reminder:"
+echo "================================"
+echo "Have you:"
+echo "1. Run tests from TESTING_WORKFLOW.md?"
+echo "2. Updated TESTING_WORKFLOW.md with any new errors?"
+echo "3. Verified the specific error test cases?"
+echo ""
+echo "Press Enter to continue or Ctrl+C to cancel..."
+read

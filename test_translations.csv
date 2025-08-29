@@ -1,0 +1,26 @@
+Key,Source,English Original
+common.words.hi,common,Hi
+common.words.hello,common,Hello
+common.words.goodbye,common,Goodbye
+common.words.yes,common,Yes
+common.words.no,common,No
+menu.file,menu,File
+menu.edit,menu,Edit
+menu.view,menu,View
+menu.help,menu,Help
+menu.settings,menu,Settings
+error.network,error,Network error occurred
+error.notfound,error,Page not found
+error.unauthorized,error,You are not authorized
+error.server,error,Server error
+error.timeout,error,Request timed out
+form.name,form,Name
+form.email,form,Email address
+form.password,form,Password
+form.submit,form,Submit
+form.cancel,form,Cancel
+game.start,game,Start Game
+game.pause,game,Pause
+game.resume,game,Resume
+game.gameover,game,Game Over
+game.points,game,You earned {points} points!
