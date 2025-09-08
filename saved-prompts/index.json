@@ -1,0 +1,134 @@
+{
+  "lastSynced": "2025-07-29T16:48:36.100Z",
+  "totalGroups": 16,
+  "groups": [
+    {
+      "id": "saved_1751877922134_n362p5ziz",
+      "name": "Bahasha Indonesia",
+      "language": "Bahasha Indonesia",
+      "description": "",
+      "createdAt": "2025-07-07T08:45:22.134Z",
+      "updatedAt": "2025-07-07T08:45:22.134Z"
+    },
+    {
+      "id": "saved_1751878051458_cm0z906oq",
+      "name": "French",
+      "language": "French",
+      "description": "",
+      "createdAt": "2025-07-07T08:47:31.458Z",
+      "updatedAt": "2025-07-07T08:47:31.458Z"
+    },
+    {
+      "id": "saved_1751384683147_u2jlvtpyo",
+      "name": "Hindi (mixed)",
+      "language": "Hindi (mixed)",
+      "description": "",
+      "createdAt": "2025-07-01T15:44:43.147Z",
+      "updatedAt": "2025-07-01T19:29:20.657Z"
+    },
+    {
+      "id": "saved_1751877983255_5gvxxecl9",
+      "name": "Italian",
+      "language": "Italian ",
+      "description": "",
+      "createdAt": "2025-07-07T08:46:23.255Z",
+      "updatedAt": "2025-07-07T08:46:23.255Z"
+    },
+    {
+      "id": "saved_1751878283423_zrgesmfwm",
+      "name": "Kannada",
+      "language": "Kannada",
+      "description": "",
+      "createdAt": "2025-07-07T08:51:23.423Z",
+      "updatedAt": "2025-07-07T08:51:23.423Z"
+    },
+    {
+      "id": "saved_1751878199581_31k67vqww",
+      "name": "Malayalam",
+      "language": "Malayalam",
+      "description": "",
+      "createdAt": "2025-07-07T08:49:59.581Z",
+      "updatedAt": "2025-07-07T08:49:59.581Z"
+    },
+    {
+      "id": "saved_1751878251147_mde3zd7v1",
+      "name": "Marathi",
+      "language": "Marathi ",
+      "description": "",
+      "createdAt": "2025-07-07T08:50:51.146Z",
+      "updatedAt": "2025-07-07T08:50:51.146Z"
+    },
+    {
+      "id": "saved_1751877849115_uatejkt06",
+      "name": "Portuguese ",
+      "language": "Portuguese",
+      "description": "",
+      "createdAt": "2025-07-07T08:44:09.114Z",
+      "updatedAt": "2025-07-07T08:44:09.114Z"
+    },
+    {
+      "id": "saved_1751384655292_36aeej44o",
+      "name": "Spanish",
+      "language": "Spanish",
+      "description": "",
+      "createdAt": "2025-07-01T15:44:15.292Z",
+      "updatedAt": "2025-07-01T19:29:43.415Z"
+    },
+    {
+      "id": "saved_1751878090177_5jae0py47",
+      "name": "Tamil",
+      "language": "Tamil (mixed)",
+      "description": "",
+      "createdAt": "2025-07-07T08:48:10.177Z",
+      "updatedAt": "2025-07-07T08:48:10.177Z"
+    },
+    {
+      "id": "saved_1751878126145_w7lj0lycj",
+      "name": "Telegu",
+      "language": "Telegu",
+      "description": "",
+      "createdAt": "2025-07-07T08:48:46.145Z",
+      "updatedAt": "2025-07-07T08:48:46.145Z"
+    },
+    {
+      "id": "saved_1753807475984_7v255rz79",
+      "name": "Portuguese - rich text",
+      "language": "Portuguese",
+      "description": "",
+      "createdAt": "2025-07-29T16:44:35.984Z",
+      "updatedAt": "2025-07-29T16:44:35.984Z"
+    },
+    {
+      "id": "saved_1753807507628_stwnv6up8",
+      "name": "Tamil rich text",
+      "language": "Tamil",
+      "description": "",
+      "createdAt": "2025-07-29T16:45:07.628Z",
+      "updatedAt": "2025-07-29T16:45:07.628Z"
+    },
+    {
+      "id": "saved_1753807540933_yf19nwq1j",
+      "name": "Telugu richtext",
+      "language": "Telugu ",
+      "description": "",
+      "createdAt": "2025-07-29T16:45:40.933Z",
+      "updatedAt": "2025-07-29T16:45:40.933Z"
+    },
+    {
+      "id": "saved_1753807577164_c7vrrfxw2",
+      "name": "mlylm richtext",
+      "language": "Malayalam",
+      "description": "",
+      "createdAt": "2025-07-29T16:46:17.164Z",
+      "updatedAt": "2025-07-29T16:46:17.164Z"
+    },
+    {
+      "id": "saved_1753807605635_0bsvwhivm",
+      "name": "marathi richtext",
+      "language": "Marathi",
+      "description": "",
+      "createdAt": "2025-07-29T16:46:45.635Z",
+      "updatedAt": "2025-07-29T16:46:45.635Z"
+    }
+  ]
+}
